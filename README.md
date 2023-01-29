@@ -1,12 +1,14 @@
 <h1 align="center">Hi, I'm Tassanee Atsawajuramanee - Junior Full-Stack Software Developer</h1>
-<p align="center">I used to work in marketing and management but decided to make a career change into software. I’ve made this change because I love creating things and solving interesting problems. I took the leap last year by joining the School of Code bootcamp where I built on my development and IT fundamentals and worked with other learners to build projects and take part in hackathons. I am passionate about writing clean, readable code and designing and building elegant user experiences. I mostly use React, Javascript, HTML and CSS. I love learning whether it’s a new technology or deepening my knowledge of the tools I already use. I’m currently looking for my first job in the software world and would love for you to get in touch with me!</p>
+<p align="center">I used to work in marketing and management but decided to make a career change into software. I’ve made this change because I love creating things and solving interesting problems. I took the leap last year by joining the School of Code bootcamp where I built on my development and IT fundamentals and worked with other learners to build projects and take part in hackathons.</p>
+  
+<p align="center">I am passionate about writing clean, readable code and designing and building elegant user experiences. I mostly use React, Javascript, HTML and CSS. I love learning whether it’s a new technology or deepening my knowledge of the tools I already use. I’m currently looking for my first job in the software world and would love for you to get in touch with me!</p>
 
 
 - 🔭 I’m currently working on **Commercial full stack website**
-- 
+
 
 - 🌱 I’m currently learning **Javascript Intermediate and React on Codecademy**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
