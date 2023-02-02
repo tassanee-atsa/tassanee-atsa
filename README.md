@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Commercial full stack website**
+- 🔭 I’m currently working on ** full Stack Social Media App**
 
 
 - 🌱 I’m currently learning **Javascript Intermediate and React on Codecademy**
