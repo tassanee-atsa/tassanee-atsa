@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tassanee Atsawajuramanee</h1>
 
-<h3 align="center">Junior Full-Stack Software Developer</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
   
   
 <p align="center">I used to work in marketing and management but decided to make a career change into software. I’ve made this change because I love creating things and solving interesting problems. I took the leap last year by joining the School of Code bootcamp where I built on my development and IT fundamentals and worked with other learners to build projects and take part in hackathons.</p>
