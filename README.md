@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on ** Full Stack Social Media App**
 
 
-- 🌱 I’m currently learning **Javascript Intermediate and React on Codecademy**
+- 🌱 I’m currently learning **Javascript Intermediate and React**
 
 
 - 👨‍💻 All of my projects are available at [https://tassanee-portfolio.vercel.app/](https://tassanee-portfolio.vercel.app/)
